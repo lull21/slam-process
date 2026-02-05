@@ -284,7 +284,7 @@ class TestBSBeamCorrection(unittest.TestCase):
 
 def _parse_args():
     p = argparse.ArgumentParser()
-    p.add_argument("--input", type=str, default=r"D:\Code\SLAMPro\UE21\debugDoc\Serial Debug 2026-01-27 115303.xlsx")
+    p.add_argument("--input", type=str, default=r"D:\桌面\SLAMPro\debugDoc\Serial Debug 2026-01-26 164520.xlsx")
     p.add_argument("--output", type=str, default=None)
     p.add_argument("--run-tests", action="store_true")
     p.add_argument("--log-level", type=str, default="INFO")
