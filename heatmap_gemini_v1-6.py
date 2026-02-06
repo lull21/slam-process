@@ -690,7 +690,7 @@ def main():
     """主执行函数"""
     # 配置文件路径
     angle_file = 'D:\\桌面\\SLAMPro\\beam_angle.xlsx'
-    rss_file = 'D:\\桌面\\SLAMPro\\debugDoc\\Serial Debug 2026-01-27 115018_filtered.xlsx'
+    rss_file = 'D:\\桌面\\slam-process\\debugDoc\\Serial Debug 2026-02-06 092721_filtered.xlsx'
     output_dir = 'D:\\桌面\\SLAMPro\\pic_v1-6'
     
     try:
